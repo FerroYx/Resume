@@ -131,23 +131,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Slsim: a strong lensing population simulation package
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: JCAP
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Participated as a contributor to Slsim package. Mainly worked on Dark Matter Subhalos integration in Lens object, and Euclid configurations.
 ---
 
 I am currently master student of Physics with concentration on Astrophysics at Stony Brook University. I'm also a member of Stony Brook Strong lensing Group, supervised by [Prof Simon Birrer](https://sibirrer.github.io/). I'm interested in Strong Gravitational lens, Dark Matter and Dark Energy, Cosmology Parameters Modeling, and Simulations.
