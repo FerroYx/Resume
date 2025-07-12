@@ -41,7 +41,7 @@ education:
   - area: MA in Physics with concentration on Astrophysics
     institution: Stony Brook University
     date_start: 2025-01-28
-    date_end: 2026-5-31
+    date_end: 2026-05-31
     summary: |
       Doing research on strong gravitational lensing, Supervised by [Prof Simon Birrer](https://sibirrer.github.io/).
     # button:
@@ -50,7 +50,7 @@ education:
   - area: BSc in Physics and Astronomy/Planetary Science
     institution: Stony Brook University
     date_start: 2020-09-12
-    date_end: 2024-5-21
+    date_end: 2024-05-21
     summary: |
       GPA: 3.77/4.00
 
