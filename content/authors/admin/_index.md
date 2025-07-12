@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yixuan (Ferro) Shao
+title: 邵逸轩
 
 # Name pronunciation (optional)
 name_pronunciation: Sh-ow Yee Shooen
