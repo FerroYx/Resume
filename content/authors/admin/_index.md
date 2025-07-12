@@ -131,8 +131,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Slsim: a strong lensing population simulation package
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: 'Slsim a strong lensing population simulation package'
+    url: https://github.com/LSST-strong-lensing/slsim
     date: '2023-11-25'
     awarder: JCAP
     icon: ''
