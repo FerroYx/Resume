@@ -77,7 +77,7 @@ work:
     company_url: https://condorarraytelescope.org/
     company_logo: logo-1
     date_start: 2023-05-01
-    date_end: 2024-5-31
+    date_end: 2024-05-31
     summary: |
       Responsibilities include:
       - Generated and processed XML files based on Condor Array Telescope's existing observational data via Python.
